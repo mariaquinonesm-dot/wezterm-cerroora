@@ -1,0 +1,13 @@
+src/**/*.tsx linguist-detectable
+*.htm linguist-vendored
+docs/index.html linguist-vendored
+
+*.md linguist-documentation
+*.svg text
+*.yaml linguist-detectable=false
+
+*.ico binary
+vendor/* linguist-vendored
+dist/* linguist-vendored
+
+*.jpeg binary
