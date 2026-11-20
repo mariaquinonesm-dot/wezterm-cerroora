@@ -1,0 +1,7 @@
+.env
+*.log
+build/
+.env.local
+yarn-error.log*
+*.tgz
+dist/
